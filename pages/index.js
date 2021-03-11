@@ -10,7 +10,7 @@ function Hello() {
       </Link>
 
       <Link href="/todo">
-        <p>Todo</p>
+        <p style={{ color: 'blue' }}>Todoアプリへ</p>
       </Link>
     </>
   )
